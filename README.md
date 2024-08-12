@@ -11,3 +11,4 @@ Tech stack used in project are:
 - React
 - Redux
 
+![c1](https://github.com/user-attachments/assets/b5ac4a2b-7a9c-4507-a6c2-d90d41c1eb78)
